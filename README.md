@@ -1,5 +1,5 @@
 # Hi There, I'm Utami 👋
-Developer from 🇮🇩 Indonesia, based in 🇨🇦 Toronto. Currently a student @ UofT. Visit my temporary website: [submergeduck.com](https://pages.github.com/](https://www.submergedduck.com/)) 😉
+Developer from 🇮🇩 Indonesia, based in 🇨🇦 Toronto. Currently a student @ UofT. Visit my temporary website: [submergedduck.com](https://submergedduck.com]) 😉
 
 My interests are: Game Development, UI/UX Interaction Design, Computer Graphics ✨
 ## 
