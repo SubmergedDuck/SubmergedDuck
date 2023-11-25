@@ -22,6 +22,7 @@ My interests are: Game Development, UI/UX Interaction Design, Computer Graphics,
 ##
 
 ### Working On... ⚙️
+- [X] Learning JUnit Testing
 - [ ] Work: Triangulations Unity Maps Virtual Research Space ✨
 - [ ] Learning C++
 - [ ] Learning TypeScript
