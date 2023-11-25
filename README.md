@@ -1,7 +1,7 @@
 # Hi There, I'm Utami 👋
-Developer from 🇮🇩 Indonesia, based in 🇨🇦 Toronto. Currently a student @ UofT. Visit my temporary website: [submergedduck.com](https://submergedduck.com) 😉
+Developer from 🇮🇩 Indonesia, based in 🇨🇦 Toronto. Currently doing CS & Math @ UofT. Visit my temporary website: [submergedduck.com](https://submergedduck.com) 😉
 
-My interests are: Game Development, UI/UX Interaction Design, Computer Graphics ✨
+My interests are: Game Development, UI/UX Interaction Design, Computer Graphics, Digital Art ✨
 ## 
 
 ### Languages 📝
@@ -19,7 +19,14 @@ My interests are: Game Development, UI/UX Interaction Design, Computer Graphics 
 - <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="15" height="15"/></a> Illustrator
 - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/></a> Figma
 
-## 
+##
+
+### Working On... ⚙️
+- [ ] Work: Triangulations Unity Maps Virtual Research Space ✨
+- [ ] Learning C++
+- [ ] Learning TypeScript
+- [ ] Building New Website w/ React + Three.js
+- [ ] Social Squad (Class Project)
 
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SubmergedDuck\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/SubmergedDuck/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
