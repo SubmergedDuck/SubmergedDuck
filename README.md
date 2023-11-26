@@ -23,11 +23,11 @@ My interests are: Game Development, UI/UX Interaction Design, Computer Graphics,
 
 ### Working On... ⚙️
 - [X] Learning JUnit Testing
+- [ ] Class Project: Social Squad 
 - [ ] Work: Triangulations Unity Maps Virtual Research Space ✨
 - [ ] Learning C++
 - [ ] Learning TypeScript
 - [ ] Building New Website w/ React + Three.js
-- [ ] Social Squad (Class Project)
 
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SubmergedDuck\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/SubmergedDuck/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
