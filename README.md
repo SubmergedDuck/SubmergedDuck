@@ -24,7 +24,8 @@ My interests are: Game Development, UI/UX Interaction Design, Computer Graphics,
 ##
 
 ### Working On... ⚙️
-- [] A Blender to OpenUSD pipeline demo
+- [ ] A Blender to OpenUSD pipeline demo
+- [ ] Project Aegis, A Roblox Game
 
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SubmergedDuck\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/SubmergedDuck/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
