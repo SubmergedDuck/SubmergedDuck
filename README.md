@@ -1,7 +1,7 @@
 # Hi There, I'm Utami 👋
 Developer from 🇮🇩 Indonesia, based in 🇨🇦 Toronto. Currently doing CS & Math @ UofT. Visit my temporary website: [submergedduck.com](https://submergedduck.com) 😉
 
-My interests are: Game Development, UI/UX Interaction Design, Computer Graphics, and Cloud Development ✨
+My interests are: Game Development, UI/UX Interaction Design, Computer Graphics, and Cloud/ML Development ✨
 ## 
 
 ### Languages 📝
